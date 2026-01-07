@@ -1,4 +1,4 @@
-import { Tag, Monitor, ShoppingCart, Tv, StickyNote } from 'lucide-react'
+import { Tag, Monitor, ShoppingCart, Tv } from 'lucide-react'
 
 const products = [
   {
@@ -20,11 +20,6 @@ const products = [
     icon: Tv,
     title: 'Kiosk Screens',
     description: 'Interactive displays for advertisements, wayfinding, and customer engagement. High-resolution, durable screens.',
-  },
-  {
-    icon: StickyNote,
-    title: 'Backless Labels',
-    description: 'Sleek, modern labeling solutions for retail environments. Professional appearance with easy installation.',
   },
 ]
 

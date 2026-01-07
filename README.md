@@ -15,7 +15,6 @@ A modern, minimalistic B2B landing page for SmartPharm, showcasing smart hardwar
 - Digital Posters
 - Price Check Kiosks
 - Kiosk Screens
-- Backless Labels
 
 ## Tech Stack
 
